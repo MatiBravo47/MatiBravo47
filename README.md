@@ -8,7 +8,7 @@
 
 
  - Python
- - C+
+ - C sharp
  - Javascript 
  - HTML/CSS
  - MySQL
